@@ -4,7 +4,8 @@ export default function App() {
   const rect = [
     {x: 100, y: 100, w: 250, h: 30, color: 'orange', label: 'A'},
     {x: 100, y: 200, w: 200, h: 30, color: 'purple', label: 'B'},
-    {x: 100, y: 300, w: 100, h: 30, color: 'pink', label: 'C'}
+    {x: 100, y: 300, w: 100, h: 30, color: 'pink', label: 'C'},
+    {x: 100, y: 350, w: 50, h: 30, color: 'blue', label: 'D'}
   ];
 
   return (
